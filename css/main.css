@@ -1,10 +1,10 @@
 
 :root{
-  --clr-black: #000000;
-  --clr-gray: #e3e3e3;
-  --clr-white: #ffffff;
+  --clr-black: #1c1c1c;
+  --clr-gray: #ececec;
+  --clr-white: #f7f7f7;
 
-  --type-normal: #b4fb89;
+  --type-normal: #a8a878;
   --type-fire: #ff4545;
   --type-water: #0060c6;
   --type-grass: #5df729;  
@@ -212,7 +212,6 @@ header {
 .normal {
   background-color: var(--type-normal);
   color: var(--clr-black);
-  border-radius: 0;
 }
 
 
