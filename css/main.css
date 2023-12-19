@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Inter:wght@900&family=Poppins&family=Press+Start+2P&family=Raleway+Dots&family=Raleway:wght@300;400;500;600;700;800&family=Roboto:wght@100;400&display=swap');
+
 
 :root{
   --clr-black: #1c1c1c;
@@ -32,7 +34,7 @@
     padding: 0;
     box-sizing: border-box;
     color: var(--clr-black);
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Press Start 2P', sans-serif;
 }
 
 ul {
